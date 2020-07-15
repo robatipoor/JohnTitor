@@ -1,11 +1,9 @@
 # JohnTitor (Yuki Okushi)
 
+![JohnTitor's github stats](https://github-readme-stats.vercel.app/api?username=JohnTitor&show_icons=true)
+
 JohnTitor (Yuki Okushi) is a FLOSS nerd and time traveler.
 Why time traveler? See [this Wikipedia page](https://en.wikipedia.org/wiki/John_Titor) for detail.
-
-I live in Japan (UTC+9) but my timezone is frequently broken.
-
-I'm currently working on a number of things related to Rust.
 
 See also https://www.neet.club.
 
