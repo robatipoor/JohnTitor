@@ -7,6 +7,8 @@ I live in Japan (UTC+9) but my timezone is frequently broken.
 
 I'm currently working on a number of things related to Rust.
 
+See also https://www.neet.club.
+
 ## Sponsoring
 
 I currently have no job due to mental condition, so sponsoring is definitely helpful, thanks!
